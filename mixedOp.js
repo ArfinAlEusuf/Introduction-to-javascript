@@ -1,6 +1,6 @@
 var first = 'Mobarok'
 var second = 'tobarok'
-
+// 
 var fullName = first + second
 
 console.log(fullName);
