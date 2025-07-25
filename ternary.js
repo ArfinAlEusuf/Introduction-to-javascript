@@ -18,4 +18,4 @@ else{
 // simple ternarry
 age >= 18 ? console.log('Vote dio') : console.log('Ghumai thako')
 
-const price
+// const price
